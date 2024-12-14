@@ -9,7 +9,7 @@ const Section1 = () => {
 
         <h2 className="text-2xl font-semibold text-blue-600">What is System and Network Defense?</h2>
         <p className="text-white mb-4">
-          System and network defense refers to the measures and technologies used to protect an organization's systems and networks from unauthorized access, attacks, and damage. This includes securing the network perimeter, monitoring for unusual activity, and protecting sensitive data.
+          System and network defense refers to the measures and technologies used to protect an organization&aposs systems and networks from unauthorized access, attacks, and damage. This includes securing the network perimeter, monitoring for unusual activity, and protecting sensitive data.
         </p>
 
         <h2 className="text-2xl font-semibold text-blue-600">Key Concepts in Cyber Defense</h2>
@@ -23,7 +23,7 @@ const Section1 = () => {
 
         <h2 className="text-2xl font-semibold text-blue-600">The Role of a System and Network Defense Engineer</h2>
         <p className="text-white">
-          A system and network defense engineer is responsible for designing, implementing, and maintaining the security measures needed to protect an organization's IT infrastructure. They must stay ahead of evolving threats and ensure the organization's systems remain secure.
+          A system and network defense engineer is responsible for designing, implementing, and maintaining the security measures needed to protect an organization&aposs IT infrastructure. They must stay ahead of evolving threats and ensure the organization&aposs systems remain secure.
         </p>
       </div>
     

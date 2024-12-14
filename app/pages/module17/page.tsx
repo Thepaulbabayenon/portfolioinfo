@@ -13,7 +13,7 @@ const Module17 = () => {
   // This function checks the current visible section based on scroll position
   const handleScroll = () => {
     const sections = ['section1', 'section2', 'section3', 'section4', 'section5'];
-    for (let section of sections) {
+    for (const section of sections) {
       const element = document.getElementById(section);
       if (element && window.scrollY >= element.offsetTop - 100) {
         setActiveSection(section);

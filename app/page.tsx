@@ -1,5 +1,3 @@
-import Head from 'next/head';
-import { MailIcon, LinkIcon, CodeIcon } from '@heroicons/react/solid';
 import Link from 'next/link';
 import Layout from '../components/LayoutModule';
 

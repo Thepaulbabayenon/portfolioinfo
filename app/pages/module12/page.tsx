@@ -1,4 +1,4 @@
-'use client'
+'use c'
 import Layout from '../../../components/LayoutModule';
 import { useState, useEffect } from 'react';
 import Section1 from './section1';
@@ -12,7 +12,7 @@ const Module12 = () => {
 
   const handleScroll = () => {
     const sections = ['section1', 'section2', 'section3', 'section4', 'section5'];
-    for (let section of sections) {
+    for (const section of sections) {
       const element = document.getElementById(section);
       if (element && window.scrollY >= element.offsetTop - 100) {
         setActiveSection(section);
