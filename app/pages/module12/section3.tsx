@@ -1,4 +1,3 @@
-import Layout from '../../../components/LayoutModule';
 
 const Section3 = () => {
   return (
