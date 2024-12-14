@@ -1,4 +1,4 @@
-'use c'
+'use client'
 import Layout from '../../../components/LayoutModule';
 import { useState, useEffect } from 'react';
 import Section1 from './section1';
